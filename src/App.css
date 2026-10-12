@@ -1,0 +1,12 @@
+.app {
+  min-height: 100vh;
+  background: white;
+}
+
+.dark .app {
+  background: #030712;
+}
+
+.app-main {
+  padding-top: 4rem;
+}
