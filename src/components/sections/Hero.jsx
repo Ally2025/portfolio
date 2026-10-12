@@ -28,7 +28,7 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          <span className="portfolio-hero-badge">✦ 5+ Years of Experience</span>
+          <span className="portfolio-hero-badge">✦ Full-Stack Developer</span>
         </motion.div>
 
         <motion.h1
